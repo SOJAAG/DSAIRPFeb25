@@ -4,6 +4,8 @@
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
 ![images (1)](https://github.com/user-attachments/assets/51b2b497-f0c8-44ff-b514-017c4d00f757)
+![images (17)](https://github.com/user-attachments/assets/359bc8f8-5d97-4733-acd4-96aa7ec805de)
+
 
 ### Perceptron
 ### Backpropagation
