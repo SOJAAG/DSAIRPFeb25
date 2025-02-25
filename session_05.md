@@ -24,8 +24,15 @@
 
 ### Backpropagation
 
+Backpropagation aka "Backward Propagation of Errors" is a method used to train artificial neural networks.
+
 ### AI Winter
+-It is a period of reduced funding and interest in AI research.
+
+![image](https://github.com/user-attachments/assets/01e0a595-c768-48d0-9c39-54ab7ddd4192)
+
 ### DARPA Grand Challenge 2005
+-It is a competition for autonomous vehicles.
 ### ImageNet 2012
 ### 2024 Nobel Prize in Physics
 ### Deepseek
