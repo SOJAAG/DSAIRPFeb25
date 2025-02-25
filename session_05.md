@@ -1,7 +1,9 @@
 # Demystifying Terms Data Science, Machine Learning, Artificial Intelligence
 ## Artificial Intelligence
+
 -A field of computer science that studies and develops methods that enables machine to human intelligence and problem solving capabilities.
 ## Artificial General Intelligence
+![image](https://github.com/user-attachments/assets/d18d6eac-7cd2-40b2-a867-9ef701e3895e)
 ## History of Artificial Intelligence
 ![images (1)](https://github.com/user-attachments/assets/51b2b497-f0c8-44ff-b514-017c4d00f757)
 ![images (17)](https://github.com/user-attachments/assets/359bc8f8-5d97-4733-acd4-96aa7ec805de)
