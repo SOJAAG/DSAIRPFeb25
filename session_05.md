@@ -3,6 +3,7 @@
 -A field of computer science that studies and develops methods that enables machine to human intelligence and problem solving capabilities.
 
 -applications of AI : 1. advanced web search engines (e.g., Google Search)
+
                       2.recommendation systems (used by YouTube, Amazon, and Netflix)
                       3.virtual assistants (e.g., Google Assistant, Siri, and Alexa)
                       4.autonomous vehicles (e.g., Waymo)
