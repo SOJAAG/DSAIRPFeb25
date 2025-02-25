@@ -17,7 +17,12 @@
 
 
 ### Perceptron
+-It is an artificial neuron, simplest possible neural netwrok used for binary classification.Perceptron was introduced by Frank Rosenblatt in 1957.
+![image](https://github.com/user-attachments/assets/73a67ba5-ee1d-4c68-b1e8-92b245b1ec45)
+
+
 ### Backpropagation
+
 ### AI Winter
 ### DARPA Grand Challenge 2005
 ### ImageNet 2012
