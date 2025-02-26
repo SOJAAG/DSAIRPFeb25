@@ -47,8 +47,8 @@ A list object can be used to bundle elements together in Python. A list is defin
  A tuple is a sequence of comma separated values that can contain elements of different types. Tuple is immutable. eg: my_tuple= (1,2,3).
  
 ### Range
- The range()function is a common approach for implementing counting in aforloop. 
- A range()function generates a sequence of integers between the two numbers given a step size.
+ The range() function is a common approach for implementing counting in a for loop. 
+ A range() function generates a sequence of integers between the two numbers given a step size.
  eg:  range(end) = range(3)
  range(start, end)= range(3,7)
  range(start, end, step)= range(3,10,2)
