@@ -40,7 +40,7 @@ eg: "hello"
 ## Sequence Type
 
 ### List
-A list object can be used to bundle elements together in Python. A list is defined by using square brackets []. list is mutable.
+A list object can be used to bundle elements together in Python. A list is defined by using square brackets [ ]. list is mutable.
  with comma separated values within the square brackets. eg: oplist=[1,2,3,].
  
 ### Tuple
