@@ -93,7 +93,7 @@ when there is no value to return, none datatype is used.
 assignment operators are " = , += , -= , *= "
 
 ## Comparison Operator
-- > : greater than than
+- /> : greater than than
 - < : less than
 - >= : greater than or equal to
 - <= : less than or equal to
