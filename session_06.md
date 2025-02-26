@@ -95,7 +95,7 @@ assignment operators are " = , += , -= , *= "
 ## Comparison Operator
 - /> : greater than than
 - < : less than
-- >= : greater than or equal to
+- />= : greater than or equal to
 - <= : less than or equal to
 - == : equal to
 - != : not equal to
