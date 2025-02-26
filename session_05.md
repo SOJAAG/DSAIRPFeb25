@@ -60,7 +60,8 @@ Progress in artificial intelligence is underpinned by advances in three areas: c
 
 3.Algorithmic Improvements: Algorithmic progress means that programs can do more computations with a set quantity of computing resources. When AI models can do computations more efficiently, we can train bigger and more capable models, and explore new approaches. This in turn creates new possibilities and risks.
 
-GPU(Graphics Processing Unit): 
+## GPU(Graphics Processing Unit): 
+
 -It is a specialized electronic circuit initially designed for digital image processing and to accelerate computer graphics, being present either as a discrete video card or embedded on motherboards, mobile phones, personal computers, workstations, and game consoles.
 
 -GPUs ability to perform vast numbers of calculations rapidly has led to their adoption in diverse fields including artificial intelligence (AI) where it excels at handling data-intensive and computationally demanding tasks.
