@@ -34,12 +34,45 @@ Backpropagation aka "Backward Propagation of Errors" is a method used to train a
 ### DARPA Grand Challenge 2005
 -It is a competition for autonomous vehicles.
 - the Stanford Racing Team,led by Associate Professor Sebastian Thrun won the 2005 DARPA Grand Challenge with their autonomous vehicle named Stanley.
+  
 ### ImageNet 2012
+-The ImageNet Challenge involves classifying object categories in images from the Internet into one of 1000 possible classes. It serves as a standard benchmark for evaluating the performance of deep learning models, particularly deep Convolutional Neural Networks.
+- AlexNet (CNN team) won the ImageNet Large Scale Visual Recognition challenge 2012.
+  
 ### 2024 Nobel Prize in Physics
+
+John Hopfield and Geoffrey Hinton won Nobel Prize(2024) in Physics. They used tools from physics to construct methods that helped lay the foundation for today’s powerful machine learning. John Hopfield created a structure that can store and reconstruct information. Geoffrey Hinton invented a method that can independently discover properties in data and which has become important for the large artificial neural networks now in use.  
+
 ### Deepseek
+
+-Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., (doing business as DeepSeek) is a Chinese artificial intelligence company that develops large language models (LLMs). 
+-it is owned and funded by the Chinese hedge fund High-Flyer. 
+-DeepSeek was founded in July 2023 by High-Flyer co-founder Liang Wenfeng.
+-The company launched an eponymous chatbot alongside its DeepSeek-R1 model in January 2025.
+
 ## Key Deciding Factors of Growth of AI
+
+Progress in artificial intelligence is underpinned by advances in three areas: compute, data, and algorithms.
+
+1.Data Availability and Quality: The availability of large and diverse datasets has been crucial for training advanced AI models by leveraging vast amounts of labeled and unlabeled data, allowing models to learn patterns and relationships effectively.
+
+2.Computational Power: Advances in hardware, particularly Graphics Processing Units (GPUs) and specialized AI accelerators, have significantly increased the processing power available for training complex AI models.
+
+3. Algorithmic Improvements: Algorithmic progress means that programs can do more computations with a set quantity of computing resources. When AI models can do computations more efficiently, we can train bigger and more capable models, and explore new approaches. This in turn creates new possibilities and risks.
+
 ## Data Science, Machine Learning and Artificial Intelligence
+![image](https://github.com/user-attachments/assets/a095fff3-3773-4ecd-90ed-74c53749cd71)
+
 ## Data Science Application Domains
+![image](https://github.com/user-attachments/assets/9c0e1a21-ff39-4c38-a9b7-ec236970c5ce)
+
 ## Correlation Vs. Causation
+
+-Correlation establishes that a relationship exists between two variables, while causation means that one event results in the occurrence of the other event.
+-Correlation does not always result in causation.
+
 ## Ethics in AI
+![image](https://github.com/user-attachments/assets/291c2753-9b81-49cb-aa7d-365c2e20ca9d)
+
+
 
