@@ -33,6 +33,7 @@ Backpropagation aka "Backward Propagation of Errors" is a method used to train a
 
 ### DARPA Grand Challenge 2005
 -It is a competition for autonomous vehicles.
+- the Stanford Racing Team,led by Associate Professor Sebastian Thrun won the 2005 DARPA Grand Challenge with their autonomous vehicle named Stanley.
 ### ImageNet 2012
 ### 2024 Nobel Prize in Physics
 ### Deepseek
