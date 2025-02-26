@@ -56,7 +56,7 @@ A list object can be used to bundle elements together in Python. A list is defin
 ## Mapping Type
 ### Dictionary
 A Python dictionary is a data type for storing the data in a key-value pair format.
-eg: A = {"a": 97, "b": 98, "A": 65, "B": 66}
+eg: A = {"a": 97, "b": 98, "A": 65, "B": 66}.
 to get keys : A.keys()
 to get values: A.values() 
 ## Set Type
