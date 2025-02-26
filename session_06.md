@@ -59,6 +59,7 @@ A Python dictionary is a data type for storing the data in a key-value pair form
 eg: A = {"a": 97, "b": 98, "A": 65, "B": 66}.
 
 to get keys : A.keys()
+
 to get values: A.values() 
 ## Set Type
 duplicate elements are not allowed. There is no order or indexing for set.
