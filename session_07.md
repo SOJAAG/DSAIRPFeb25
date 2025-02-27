@@ -41,12 +41,16 @@ A while loop is a code construct that runs a set of statements, known as the loo
 
  
 ### Continue
+
 skips one step and continues iteration.
+
 ![image](https://github.com/user-attachments/assets/7bab8592-01f9-4f94-b93d-627c8b6e7444)
 
 
 ### Break
+
 stops the execution of loop and comes out of the loop.
+
 ![image](https://github.com/user-attachments/assets/a6dbb82e-7160-4e21-ae36-313e9cda5882)
 
 
