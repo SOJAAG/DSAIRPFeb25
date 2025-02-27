@@ -1,6 +1,12 @@
 # Control Flow
 ## IF
+syntax: if condition:
+            body
 ## IF-ELSE
+syntax: if condition:
+            body
+        else:
+            body
 ## IF-ELIF-ELSE
 ## Nested IFs
 
